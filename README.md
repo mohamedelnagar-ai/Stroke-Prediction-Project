@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Stroke Prediction Project
 
 This repository contains a stroke prediction project built with Streamlit, Python, and machine learning.
